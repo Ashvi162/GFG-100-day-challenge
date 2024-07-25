@@ -1,1 +1,1 @@
-# GFG-100-day-challenge
+# GFG-30-day-challenge
